@@ -11,9 +11,9 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Ola");
-            Console.WriteLine("Ola 2 hoje");
+            Console.WriteLine("Ola");           
             Console.WriteLine("Aula git");
+            Console.WriteLine("Testando Commits...");
         }
     }
 }
