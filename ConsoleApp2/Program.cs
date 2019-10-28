@@ -12,6 +12,7 @@ namespace ConsoleApp2
         {
 
             Console.WriteLine("Ola");
+            Console.WriteLine("Ola 2 hoje");
         }
     }
 }
